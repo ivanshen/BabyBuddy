@@ -3,7 +3,7 @@
         <span class="glyphicon glyphicon-align-justify"><span>
     </button>
     <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-        <li><a ng-click="ctrl.goHome()"><img src="/img/alt_logo.png" id="top-logo"></a></li>
+        <li><a ng-click="ctrl.goHome()"><img src="../img/alt_logo.png" id="top-logo"></a></li>
         <li ng-repeat="tab in ctrl.tabs track by $index"><a  ng-click="ctrl.switchTab($index)"><div class="ch-img-1"></div><div>{{tab}}</div></a></li>
     </ul>
 </div>
@@ -11,7 +11,7 @@
 <div class="container-fluid content-container">
   <div class="row">
 		<div class="col-sm-6" id="left-col">
-			<img src="/img/month{{ctrl.selectedTab+1}}.jpg" class="status-imgs">
+			<img src="../img/month{{ctrl.selectedTab+1}}.jpg" class="status-imgs">
 			<h1>{{ctrl.tabs[ctrl.selectedTab]}} MONTH</h1>
 			<uib-accordion close-others="true">
 				<div class="sub-container">
