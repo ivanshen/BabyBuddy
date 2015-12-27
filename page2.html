@@ -1,0 +1,70 @@
+<div class="dropdown myDropdown">
+    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+        <span class="glyphicon glyphicon-align-justify"><span>
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+        <li><a ng-click="ctrl.goHome()"><img src="/img/alt_logo.png" id="top-logo"></a></li>
+        <li ng-repeat="tab in ctrl.tabs track by $index"><a  ng-click="ctrl.switchTab($index)"><div class="ch-img-1"></div><div>{{tab}}</div></a></li>
+    </ul>
+</div>
+
+<div class="container-fluid content-container">
+  <div class="row">
+		<div class="col-sm-6" id="left-col">
+			<img src="/img/month{{ctrl.selectedTab+1}}.jpg" class="status-imgs">
+			<h1>{{ctrl.tabs[ctrl.selectedTab]}} MONTH</h1>
+			<uib-accordion close-others="true">
+				<div class="sub-container">
+					<uib-accordion-group heading="Pro Tip #1" is-open="true" id="do-header">
+						<div class="fixed-height">
+							<ul>
+				                <li ng-repeat="protip1 in ctrl.months[ctrl.selectedTab].protip1">
+								    <h4>{{protip1.title}}</h4>
+								    {{protip1.description}}
+							     </li>
+						  </ul>
+                        </div>
+					</uib-accordion-group>
+                </div>
+				<div class="sub-container">
+					<uib-accordion-group heading="Pro Tip #2" is-open="true" id="do-header">
+						<div class="fixed-height">
+				            <ul>
+				                <li ng-repeat="protip2 in ctrl.months[ctrl.selectedTab].protip2">
+								    <h4>{{protip2.title}}</h4>
+								    {{protip2.description}}
+							     </li>
+						  </ul>
+						</div>
+					</uib-accordion-group>
+				</div>
+			</uib-accordion>
+		</div>
+		<h1 class="glyphicon glyphicon-chevron-down" id="divider"></h1>
+		<div class="col-sm-6" id="right-col">
+			<uib-accordion close-others="true">
+			    <uib-accordion-group heading="DOs" id="do-header" is-open="true">
+			    	<div class="fixed-height">
+						<ul>
+							<li ng-repeat="do in ctrl.months[ctrl.selectedTab].tips.do">
+								<h4>{{do.title}}</h4>
+								{{do.description}}
+							</li>
+						</ul>
+			        </div>
+			    </uib-accordion-group>
+				
+			    <uib-accordion-group heading="DON'Ts">
+			    	<div class="fixed-height">
+						<ul>
+							<li ng-repeat="dont in ctrl.months[ctrl.selectedTab].tips.dont">
+								<h4>{{dont.title}}</h4>
+								{{dont.description}}
+							</li>
+						</ul>
+					</div>
+			    </uib-accordion-group>		    
+			</uib-accordion>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,338 @@
+{
+    "months": [{
+            "protip1" : [
+                {
+                    "title":"The best sleep position during pregnancy is “SOS” (sleep on side)",
+                    "description": "Keep your legs and knees bent, and put a pillow between your legs. If you find that you are having problems with back pain, use the “SOS” position, and try placing a pillow under your abdomen as well. If you are experiencing heartburn during the night, you may want to try propping your upper body with pillows. In late pregnancy you may experience shortness of breath. Try lying on your side or propped up with pillows. Keep in mind that you may not stay in one position all night, and rotating positions is fine."
+                }
+                
+            ],
+            "protip2" : [
+                {
+                    "title":"Pregnancy-safe walking workout",
+                    "description":"Start by walking 10-15 minutes a day, three days a week, taking at least one day off between walks. When you feel ready, add another day of walking and increase each walk by 5 minutes. After a few weeks, add a fifth day of walking. Your Goal: Toward the end of the trimester, try walking 10-20 minutes a day, five days a week. Always check with your doctor before attempting any exercise."
+                    
+                }
+            ],
+            "tips":  {
+                "do": [
+                    {
+                    "title": "Drink plenty of fluids",
+                    "description": "A pregnant women should be consuming approximately 10 cups (2.3 litres) of fluids per day. This includes the recommended three to four glasses of milk or calcium-fortified soy beverage. Fluid requirements can also be met with a glass or two of fruit or vegetable juice, herbal tea, soup, rice drink or any other non-alcoholic refreshment. Coffee and regular tea also count, in spite of their diuretic qualities, but should be consumed sparingly because of the caffeine. Drinking water – either bottled or tap water – is a great way to rehydrate during or between meals. In addition, your body will derive water from food, especially fruit, vegetables and semi-liquid foods like yogurt. "
+                    },
+                    {
+                        "title":"Get around 8 - 10 hours a sleep a night",
+                        "description": " The number of hours you should be sleeping during the first trimester of your pregnancy varies from woman to woman, but should fall in the range of 8 - 10 hours. It is important to rest when you feel tired and schedule and prioritize sleep because the changes that occur during pregnancy can cause sleep disturbances. Your baby's health is at risk if your lack of sleep affects your ability to function. Research has found that women who get less than six hours of sleep during their last month of pregnancy are more likely to have a cesarean section and experience a longer labor than women who obtain seven or more hours of sleep. So it's well worth trying to get as much sleep as possible."
+                    },
+                    
+                    {
+                        "title": "Engage in a pregnancy-safe walking workout",
+                        "description": "Walking is the one workout that suits pregnant women of all different fitness levels. It’s as gentle or as challenging as you need it to be. It requires no investment (all you really need is a good pair of shoes and a water bottle). “I recommend walking to most of my patients who are pregnant,” says Tanya Ghatan, M.D., an OB-GYN at Brigham and Women’s Hospital in Boston. “It’s easy entry for women who’ve never exercised and gives athletic women a way to stay active without the high impact of other activities they’ve participated in.” Regardless of your fitness level, keep in mind that it’s not only fine but smart to swap days, shorten your walks or even skip them occasionally according to how you feel. It’s also okay to break up a day’s total walking time into two or more shorter sessions. Get your doctor’s approval before starting this (or any other) exercise program, and remember to warm up first by doing arm and ankle circles and leg swings for a couple of minutes (also take five minutes to stretch after each walk)."
+                    },
+                    {
+                        "title":"Purchase new comfortable pants or a waistband extender",
+                        "description":"Your belly may not be visibly rounder yet, but your pants may not be fitting as well, even just a few weeks in. A new pair of pants with a bit of Lycra stretch might round out your wardrobe perfectly. If you don't want to start buying new clothes just yet, try a waistband extender such as the Belly Belt or Bella Band. Keeping comfy is your new mission, and it's more important than you may think: Some women report that a looser waistband helps with morning sickness."
+                    }
+                    ],
+                "dont": [
+                    {
+                        "title": "Smoke cigarettes",
+                        "description":"If you smoke during pregnancy, apart from the dangers to your health, you're more at risk of miscarriage and ectopic pregnancy. The smoke you inhale can affect how your unborn baby grows, resulting in him having a low birth weight."
+                    },
+                    {
+                        "title": "Drink alcohol",
+                        "description": "The alcohol that you drink can harm a baby during pregnancy. Alcholo causes the blood achohol level of a baby to rise and can affect a baby's brain development. Heavy, regular, or binge drinking can cause a miscarriage and premature birth. Heavy drinking can also damage your baby's nervous system. This can mean that your baby develops fetal alcohol spectrum disorders (FASD), with problems that can range from mild learning difficulties or social problems, through to birth defects"
+                    },
+                    {
+                        "title": "Comsume large amounts of caffeine",
+                        "description": "Because caffeine is a stimulant, it increases your blood pressure and heart rate, both of which are not recommended during pregnancy. Caffeine also increases the frequency of urination. This causes reduction in your body fluid levels and can lead to dehydration. Any amount of caffeine can also cause changes in your baby’s sleep pattern or normal movement pattern in the later stages of pregnancy. Caffeine is not only found in coffee but also in tea, soda, chocolate, and even some over-the-counter medications that relieve headaches. Be aware of what you consume."
+                    }
+                ]
+            }
+        },
+        {
+            "protip1": [
+                    {
+                    "title":"Check to see if you require a higher dose of Folic Acid",
+                    "description":"Some women have an increased risk of having a pregnancy affected by a neural tube defect, and are advised to take a higher dose of 5 milligrams (mg) of folic acid each day until they are 12 weeks pregnant. Women have an increased risk if: they or their partner have a neural tube defect they have had a previous pregnancy affected by a neural tube defect they or their partner have a family history of neural tube defects they have diabetes. Check with your doctor to see if you require a higher dose of Folic Acid."                    
+                    }      
+            ],
+            "protip2": [
+                    {
+                    "title":"Morning sickness can cause tooth decay",
+                    "description":"Stomach acid left on the teeth can damage the surface of your teeth and promote tooth decay. If you vomit, rinse your mouth with water or with a fluoride mouthwash as soon as you can afterward."                    
+                    }      
+            ],
+            "tips": {
+                "do":[
+                    {
+                        "title":"Take the right amount of Folic Acid",
+                        "description":"Continue taking folic acid throughout your pregnancy. All women capable of pregnancy should get 400 to 800 micrograms (400 to 800 mcg or 0.4 to 0.8 mg) of folic acid every day. Folic acid helps prevent neural tube defects (NTDs), a serious birth defect that affects the spinal cord and the brain. Neural tube defects occur at a very early stage of development, before many women even know they're pregnant. They affect about 3,000 pregnancies a year in the United States. Taking a vitamin with folic acid will help you to be sure you are getting enough. Folic acid tablets can be found at your local pharmacy."
+                    },
+                    {
+                        "title":"Get regular dental checkups",
+                        "description":"Regular dental checkups and cleanings by your dental professional are the best ways to detect and prevent periodontal disease. Schedule a checkup in your first trimester (month 1 to month 3) to have your teeth cleaned and your oral health assessed. Taking care of your teeth and gums is very important when you are pregnant. During pregnancy, your hormones change; this can affect your oral health and your risk of gum and bone disease. Poor oral health may result to delivering a pre-term baby, delivering a baby with a low birth weight, and/or having pre-eclampsia (pregnancy hypertension)."
+                    },
+                    {
+                        "title":"Purchase pregnancy books/references",
+                        "description":"Pregnancy books are great references for information about pregnancy. Books like The Girlfriends' Guide to Pregnancy, by Vicki Iovine, BabyCenter Pregnancy: From Preconception to Birth by Linda J. Murray, and The Pregnancy Book: Month-by-Month, Everything You Need to Know From America's Baby Experts, by William and Martha Sears are great resources for expecting mothers."
+                    }
+                    
+                ],
+                "dont":[
+                    {
+                        "title": "Perform abdominal X-rays",
+                        "description": "Abdominal X-rays expose your abdomen and your baby to radiation. High doses of radiation can cause changes in a baby's rapidly growing cells. In turn, it's possible that these changes could slightly increase a baby's risk of birth defects or certain cancers, such as leukemia, later in life. Remember, however, that the typical dose of radiation associated with a diagnostic X-ray — even one of the abdomen or pelvis — doesn't pose this risk. Before having an X-ray, tell your health care provider if you are or might be pregnant. Depending on the circumstances, it might be possible to do an imaging study that doesn't involve radiation. In addition, if you have a child who needs an X-ray, don't hold your child during the exam if you are or might be pregnant. Most X-ray exams — including those of the arms, legs, head, teeth or chest — won't expose your reproductive organs to radiation, and a leaded apron and collar can be worn to block any scattered radiation; therefore, they are safe."
+                    },
+                    {
+                        "title": "Intaking excess sugar in your diet",
+                        "description": "The average American today eats over 150 pounds per year of refined sugars - compared to zero pounds during most of human history. High consumption of sugar (and the elevated levels of insulin that come with it) is associated with Type II diabetes, weight gain, bloating, fatigue, arthritis, migraines, lowered immune function, gallstones, obesity, breast cancer, and cardiovascular disease. Sugar is also depleting, the last thing a mother needs, draining (or disrupting the absorption of) the B-vitamins, chromium, calcium, magnesium, and copper that she needs to manage her increased stresses. Rounding out the bitter aftertastes to all that sweetness, sugar forcefeeds microbes in the digestive tract - which is already vulnerable to infection due to maternal stress - leading to impaired nutrient absorption, diarrhea, gas, or fatigue."
+                    }
+                    
+                ]
+            }
+        },
+        {
+            "protip1": [
+                    {
+                    "title":"There are two types of Vitamin D: Vitamin D2 and Vitamin D3",
+                    "description":"Drisdol is a synthetic form of vitamin D2. It is made by irradiating fungus and plant matter and is the form of vitamin D typically prescribed by doctors. D3 is the form that is synthesized by the skin when it's exposed to the sun or ultraviolet light/UVB. If you're unsure if you are getting enough vitamin D - regardless of which one - you should get your vitamin D levels checked via a blood test."
+                    }      
+            ],
+            "protip2": [
+                    {
+                        "title":"How to ensure seafood is properly cooked",
+                        "description":"Cook fish to an internal temperature of 145 degrees fahrenheit (63 degrees celsius). The fish is cooked when it separates into flakes and appears opaque throughout. Cook shrimp, lobster and scallops until they're milky white. Cook clams, mussels and oysters until their shells open. Discard any that does not open."
+                    }
+            ],
+            "tips":  {
+                "food": [],
+                "do":[
+                    {
+                        "title":"Take the right amount of Vitamin D",
+                        "description":"Vitamin D regulates the amount of calcium and phosphate in the body, which are needed to keep bones and teeth healthy. You need to take vitamin D during your pregnancy to provide your baby with enough vitamin D for the first few months of its life. You should take a supplement of 10 micrograms of vitamin D each day when you are pregnant and if you breastfeed. In children, not having enough vitamin D can cause their bones to soften and can lead to rickets (a disease that affects bone development in children). Vitamin D can be found naturally in oily fish (such as salmon, mackerel and sardines), eggs and meat. Some manufacturers add it to some breakfast cereals, soya products, some dairy products, powdered milk, and fat spreads such as margarine. It is difficult to get enough vitamin D from food alone. Our bodies also make vitamin D when our skin is exposed to summer sunlight. The amount of time you need in the sun to make enough vitamin D is different for every person, and depends on things such as skin type, the time of day and the time of year."
+                    },
+                    {
+                        "title":"Consume safely cooked seafoods",
+                        "description":"Seafood is loaded with vitamins and minerals, such as heart-healthy omega-3 fatty acids, zinc, and iron, which are important for both mom and baby.  The recommended consumption of seafood for pregnant women is no more than 12 ounces of fish per week. Avoid swordfish, shark, king mackerel, and tile fish, even when cooked. These fish can contain potentially risky levels of methylmercury. Mercury can be transferred to the growing fetus and cause serious health problems."
+                    }
+                ],
+                "dont":[
+                    {
+                        "title":"Consume unpasterized milk",
+                        "description":"Most milk and milk products sold commercially in the United States and Canada contain pasteurized milk or cream, or the products have been produced in a manner that eliminates any dangerous bacteria that may be present. However, there exists unpasteurized milk products that are still being sold and may be harmful to your health. To avoid getting sick from the dangerous bacteria found in raw milk, you should choose your milk and milk products carefully. Taking a few moments to make sure milk is pasteurized - or that a product isn't made from raw milk - can protect you or your loved ones from serious illness. Read the label. Safe milk will have the word 'pasteurized' on the label. If the word 'pasteurized' does not appear on a product's label, it may contain raw milk. Don't hesitate to ask your grocer or store clerk whether milk or cream has been pasteurized, especially milk or milk products sold in refrigerated cases at grocery or health food stores. Don't buy milk or milk products at farm stands or farmers' markets unless you can confirm that it has been pasteurized."
+                    },
+                    {
+                        "title":"Consume raw seafoods",
+                        "description":"Undercooked or raw seafood may carry harmful bacteria and viruses and is unsafe to consume unitl thoroughly cooked. Raw fish, including sushi and sashimi, and undercooked finfish and shellfish (including oysters, clams, mussels, and scallops) are more likely to contain parasites or bacteria than cooked fish."
+                    }
+                ]
+            }
+        },
+        {
+            "protip1": [
+                    {
+                        "title":"Figs are a great source of fibre, calcium, iron, and vitamin K",
+                        "description":"There’s a whopping 5 grams of fiber in just 1 cup of dried figs. Plus, figs are a great nondairy source of calcium; one serving contains about a quarter of your daily needs (1,000 milligrams). And while your teeth may not appreciate the high sugar content, they will benefit from the potassium, phosphorus and magnesium in figs. These tooth-supporting nutrients aren’t just great for your own mouth; they are essential to the 32 teeth forming below the gums in your growing baby’s mouth. Figs are also a good source of iron. Stewed figs contain about 3 milligrams of iron (about 10 percent of your daily recommended intake) in 1 cup. The same number of figs will also provide your body with 23 micrograms of vitamin K, which is needed for proper blood clotting and bone formation."
+                    }      
+            ],
+            "protip2": [
+                    {
+                        "title":"Ensure that your massage therapist a licensed massage therapist",
+                        "description":"In Ontario, Canada, all registered massage therapists (RMT) must have passed massage therapy courses that meet the competency standards for the profession established by the College of Massage Therapist of Ontario. All graduates from RMT programs must pass the registration examinations offered by the College in order to practice as a Registered Massage Therapist in Ontario. "
+                    }
+            ],
+            "tips":  {
+                "do":[
+                    {
+                    "title":"Schdeule weekly parental massages",
+                    "description":"Getting a prenatal massage can be extremely beneficial to your physiological, psychological and emotional health throughout pregnancy. But it's important to work with a practitioner whom you feel comfortable with, trust, and someone who is well-trained in giving a prenatal massage. A massage once or twice every two weeks is beneficial. Massage enhances circulation, which provides more oxygen and nutrients both to mother and baby. Increased immunity also occurs through stimulation of the lymphatic system, which also helps to remove toxins. Through promotion of the parasympathetic system, both mother and baby are in a relaxation response through release of endorphins. When we are in parasympathetic mode, we are able to sleep better, our digestion is enhanced, we no longer have stress hormones released, thus our immune system is at its optimum. A peaceful and calm mama is a peaceful and calm baby. There is an increase in hormones during pregnancy, which also causes our moods to fluctuate. Massage can stabilize our hormones and help with depression and anxiety."
+                    },
+                    {
+                        "title":"Include a daily amount of Fibre in your diet",
+                        "description":"Heartburn, constipation and indigestion are all too common during pregnancy, thanks to progesterone, a hormone produced by the ovaries that relaxes your stomach muscles and slows digestion. Luckily, there’s an easy way to ease these unpleasant side effects of expecting: up your fiber intake. Although not technically a nutrient, fiber is an important part of a healthy diet. Found in fruits, vegetables, legumes and whole grains, fiber (aka roughage) is the part of the plant that we don’t digest. Instead, it acts as a broom and “sweeps” as it passes through your digestive system. In addition to curbing irregularity, fiber offers other pregnancy benefits as well. “A higher intake of cereal fiber (from grains) can help prevent the glucose intolerance that can lead to gestational diabetes,” says Elisa Zied, M.S., R.D., C.D.N., a registered dietitian and author of Feed Your Family Right (Wiley). Studies have also shown that getting more than 21 grams of fiber a day during the first trimester can reduce your preeclampsia risk by up to two-thirds. Plus, research has supported a link between a high-fiber diet and lowered risk of ovarian and cervical cancers. Your goal is to get 25 grams to 35 grams of fiber per day, Zied says. The following five delicious recipes, which also provide plenty of essential pregnancy nutrients, make it easy."
+                    }
+                ],
+                "dont":[
+                    {
+                        "title": "Expose yourself to cat litter",
+                        "description":"Cleaning the cat litter can't figure high on many women's 'chores I enjoy' list, so pregnancy is a good excuse to get out of it. Cat faeces can carry a parasite that causes toxoplasmosis, an infection that isn't serious for you but can be for your baby. It's also carried by some birds and other animals, and found in undercooked meats. Cats get it by eating dirt and raw meat (usually rodents). Your odds of contracting it are low, and if you've had it, you can't get it again. But to err on the safe side, if your moggy likes to prowl around outside, get someone else to clean the cat litter. If you have to do it, wear rubber gloves and wash both your hands and the gloves thoroughly afterwards.If you don't have a cat, but neighbours' moggies regard your garden/children's sand pit as a toilet, wear gloves when you're gardening and handling soil or sand."
+                    }
+                ]
+            }
+        },
+        {
+            "protip1": [
+                    {
+                    "title":"Ways to avoid second hand smoke",
+                    "description":"With planning, you can reduce or eliminate exposure to secondhand smoke. Do not allow smoking in your home. If family members or guests would like to smoke, ask them to step outside. Air conditioners and ventilation systems don't effectively remove secondhand smoke from the air. Do not allow smoking in your vehicle. If a passenger must smoke while you're traveling, stop as needed for smoke breaks outside the car. Insist that smoking restrictions be enforced at work. Many states have laws against smoking in the workplace.Choose smoke-free care facilities. This applies to child care facilities as well as facilities for older adults.Patronize businesses with no-smoking policies. Choose smoke-free restaurants. When you travel, request nonsmoking hotel rooms."
+                    }      
+            ],
+            "protip2": [
+                   {
+                       "title":"Siting and knee life exercise",
+                       "description":"Sit near the edge of a sturdy chair, feet flat on the floor directly under your knees. Place your hands, palms down, under your buttocks. Contract your abdominals to tilt your pelvis under; holding this position, bring your bent left knee toward your chest.Contract your abs further as you lower your left foot to the floor, using your abs to hold the position. Release the tilt to a neutral position and repeat. Do all reps with left leg, then repeat with the right. Do 2 sets of 8–12 reps in first trimester, 1–2 sets of 8–12 reps in second and third trimesters. You can attach a 1- to 3-pound weight to each ankle for resistance. Strengthens abdominals and hip flexors. Always check with your doctor before attempting any exercise."
+                   }
+            ],
+            "tips":  {
+                "do":[
+                    {
+                        "title": "Diagnose yourself for sleeping problems",
+                        "description": "One of the reasons for fatigue and sleep problems during pregnancy are changing hormone levels. For example, rising progesterone levels may partly explain excessive daytime sleepiness, especially in the first trimester. Hormonal changes may also have an inhibitory effect on muscles, which may result in snoring and in obese women increase the risk of developing sleep apnea and may be partly responsible for the frequent trips to the bathroom during the night. These interruptions as well as those caused by nausea and other pregnancy-related discomforts can result in significant loss of sleep. Treatment for sleep problems during pregnancy is complicated by the fact that drug therapy can harm a developing fetus. For example, most drugs that are used to treat insomnia carry some risk and are typically not recommended for women who are pregnant or nursing. However, by practicing good sleep hygiene, most women are able to manage pregnancy-related insomnia. Most medications for RLS also pose risks to a developing fetus. Women most at risk for developing RLS during pregnancy are those with low levels of dietary folate and/or iron. This should be considered even before getting pregnant. Prenatal vitamins that include folate and iron supplements will help reduce RLS symptoms during pregnancy, but folate is better absorbed in foods (whole grains, cereals, and breads than it is in pill supplements; coffee decreases absorption and vitamin C increases absorption of folate from foods.Overweight or obese women who become pregnant, women who gain excessive weight and women who report snoring should be evaluated for sleep apnea. Continuous positive airway pressure (CPAP) is a safe and effective treatment for sleep apnea during pregnancy."
+                    },
+                    {
+                        "title":"Engage in pregnancy abdomen exercises",
+                        "description":"According to Karen Clippinger, M.S.P.E., a kinesiologist at Loma Linda University Medical Center in Southern California, many women develop a more pronounced lower back curve as their pregnancy progresses because of the added weight in their bellies. That, combined with a hormone-induced loosening of their joints and ligaments (including those around the spine), adds stress to the spine. Your abdominals provide a stable core for the rest of your body, and during pregnancy it’s critical to maintain that strong center. “Strengthening the abs will help counter that tendency toward an increased lumbar curve,” says Clippinger, who designed this workout routine. Clippinger chose these moves to help you safely gain abdominal strength both during pregnancy and after delivery."
+                    }
+                ],
+                "dont":[
+                    {
+                        "title": "Expose yourself to second hand smoke",
+                        "description":"Nicotine, carcinogens and toxic chemicals found in tobacco smoke are inhaled when people breathe in second-hand smoke. A pregnant woman's exposure to second-hand smoke affects many aspects of fetal development, from conception to birth. It also increases the risk of having a low birth weight baby and premature delivery. There is no safe level of exposure to second-hand smoke. Infants whose mothers smoked during pregnancy and those exposed to second-hand smoke after birth are at an increased risk for sudden infant death syndrome. Research has shown that, in 2002, exposure to second-hand smoke alone caused 92 deaths in infants under the age of one. More than 60% of these deaths were due to low birth weight and premature delivery."
+                    }
+                ]
+            }
+        },
+        {
+            "protip1": [
+                    {
+                    "title":"Posture exercises for sitting and standing",
+                    "description":"SITTING: Try a standing work station, or at least use the last five minutes of each hour to stand, stroll and stretch your calves. When you do sit, park your bottom directly on your sit bones. (You can find these bones by grabbing each butt cheek and moving the flesh out to the sides.) Sitting this way will get you off your tailbone and create a small curve in your lower back. STANDING: Shift your pelvis back so your weight rests on your heels and you can lift your toes. Wear only flats or negative-heel shoes, like Earth shoes which position the toes a few degrees higher than the heels and help decompress your lower back, Bowman says."
+                    }      
+            ],
+            "protip2": [
+                    {
+                        "title":"Posture exercises for walking",
+                        "description":"WALKING: Keep your torso upright, not leaning forward. Let your arms swing naturally, with your shoulders relaxed. Don’t waddle. If your feet “duck out,” steer them forward. If they swell, make sure your shoelaces aren’t too tight; you should be able to fit a finger under them. The Straight Scoop When you strength-train, stellar posture is a must. Good alignment protects your joints, tendons and ligaments from strain and puts more muscle into play. So keep your weight over your heels and stack your head, shoulders and hips in a straight line."
+                    }
+            ],
+            "tips":  {
+                "do":[
+                {
+                    "title": "Get enough Calcium in your diet",
+                    "description": "The U.S. Recommended Daily Allowance (USRDA) for calcium is 1000 mg per day for pregnant and breastfeeding women over age 18. The USRDA for teenage girls up to age 18 is 1300 mg of calcium per day. Eating and drinking at least four servings of dairy products and calcium-rich foods a day will help ensure that you are getting the appropriate amount of calcium in your daily diet. The best sources of calcium are dairy products, including milk, cheese, yogurt, cream soups, and pudding. Calcium is also found in foods including green vegetables (broccoli, spinach, and greens), seafood, dried peas, and beans."
+                },
+                {
+                    "title":"Get your posture straight",
+                    "description":"A tense neck, sore back, twinges in your hips, throbbing feet—when you’re pregnant, aches and pains are just part of the deal, right? Not necessarily. Our bodies are actually well-designed for pregnancy but the modern woman is doing so many things that wreak havoc on our tissues according to Katy Bowman, M.S., a biomechanist in Ventura, California, and creator of the Aligned and Well DVD series. “Our bodies are actually well-designed for pregnancy.” she says, “We wouldn’t have lasted very long as a species if reproduction wrecked us. But the modern woman is doing so many things that wreak havoc on our tissues. We sit too much, drive everywhere instead of walk, wear high heels and are often overweight and inflexible. Our machinery is basically out of whack.” It is vital to perform the regular exercises in the Pro Tip section."
+                        
+                }
+            ],
+                "dont":[
+                    {
+                        "title":"Expose yourself to arsenic",
+                        "description":"Most outdoor wooden structures, such as decks, play sets, and picnic tables are made with pressure-treated lumber that contains an arsenic-based preservative called chromated copper arsenate. High levels of this poison have been linked to various cancers and diabetes, as well as miscarriage and stillbirth. As of June 1, 2004, new federal regulations will prohibit the use of this lumber, but stores may still sell older sets from their inventory. So even if your furniture is new, it may still contain arsenic. Because arsenic may be found on the surface of these items, wash your hands after touching them and cover picnic tables with a plastic cloth before dining. Avoid pressure-washing these products and have them treated each year with a polyurethane sealant to help prevent arsenic exposure.High levels of arsenic can also be found near some hazardous waste sites and agricultural areas, where older arsenic-based fertilizers may still be in the soil. In some states, high levels of arsenic are found in rock, which can leach into soil and drinking water. Western areas tend to have higher arsenic levels, as do certain parts of the Midwest and New England. If you think you live in an area with arsenic trouble, have your well water tested, drink bottled water, and limit hand contact with soil. Your local public health department can also provide you with further information and testing options."
+                    }
+                ]
+            }
+        },
+        {
+            "protip1":[
+                {
+                    "title":"Shallow water running/walking exercise",
+                    "description":"Use a pool with a comfortable temperature: 85–87 degrees is perfect; below 83 degrees is considered cool. Begin with at least 5 minutes of shallow-water walking. As you walk, limber up with shoulder shrugs, ankle and hip circles, head rolls, arm reaches and knee lifts. Use a normal stride as you walk or run forward and backward across the pool. For variety, walk on heels or toes, do grapevine steps or step sideways. Keep moving for 5 minutes."
+                }
+            ],
+            "protip2":[
+                {
+                    "title": "Swimming Exercise: Shallow water jacks",
+                    "description":"Stand with feet hip-width apart, arms extended sideways to shoulder height. Jump up and bring soles of feet together toward groin. At the same time, press arms downward. Separate feet to starting position, moving arms back to shoulder height. Repeat jacks for 1 minute (about 40–50 reps). Remember to jump straight up and down without arching back or drifting backward. Strengthens buttocks, thighs, hips, shoulders and back."
+                }
+            ],
+            "tips":  {
+                "food": [],
+                "do":[
+                     {
+                        "title":"Get your GDM (Gestational Diabetes Mestillus) screening",
+                        "description":"Gestational diabetes mellitus (GDM), or high blood sugar during pregnancy, used to be relatively rare, occurring in about 3 percent to 4 percent of pregnancies. But in recent years, the rate has doubled—now, up to 6 percent to 8 percent of moms-to-be are diagnosed with this prenatal complication. In women with GDM, excess glucose (blood sugar) passes from the mother’s bloodstream through the placenta. Serious pregnancy complications include preeclampsia (a serious high blood pressure condition that can be fatal), preterm delivery and delivery of overweight babies, often via Cesarean section. Some 70 percent to 80 percent of women diagnosed with GDM in the United States eventually develop type II diabetes. Currently, women in the United States routinely undergo a GDM screening between 24 weeks and 28 weeks of pregnancy. At your doctor’s office, you drink a bottle of super-sweet soda—think Mountain Dew spiked with pancake syrup—and an hour later, your blood is drawn. If your blood sugar is higher than 140 milligrams of glucose per deciliter of blood plasma (mg/dL), you are referred to a laboratory for an oral glucose tolerance test (OGTT). This one involves an overnight fast, then drinking a soda that’s monumentally sweeter than the first one and having blood drawn four times over three hours. If your blood sugar exceeds a designated threshold at two of the four blood draws, you are diagnosed with GDM."
+                    },
+                    {
+                    "title": "Engage in swimming exercises",
+                    "description": "Healthcare providers and fitness experts alike hail swimming as the best – and safest – exercise for pregnant women. Swimming is ideal because it works both large muscle groups (arms and legs), provides cardiovascular benefits, reduces swelling, and allows expectant women to feel weightless despite the extra pounds of pregnancy. Swimming also improves circulation, increases muscle tone and strength, and builds endurance. Swimming helps counteract the increased back strain from your expanding belly. Pregnancy forces the spine and shoulders to round forward and the pelvis to tilt out of alignment, but swimming gently strengthens the muscles and offsets this tendency. The water also protects you from overheating and supports your joints and ligaments as you exercise, preventing injury. If you swim, you burn calories, feel less fatigued, sleep better, and are better equipped to handle pregnancy's physical and emotional challenges. Swimming also helps you keep your weight within a healthy range, and some women say swimming also makes them feel less bloated."
+                    }
+                    
+                ],
+                "dont":[
+                    {
+                        "title":"Come in contact with Salcylic Acid",
+                        "description":"This mild acid is used to treat certain skin disorders, including acne, and you can find it in a number of skin products, such as cleansers and toners. It can penetrate facial oils to get deep into pores and clean out dead skin cells. Salicylic acid is in the aspirin family, so it can also help reduce inflammation or redness. BHA, or beta hydroxy acid, is a form of salicylic acid and is used in some topical exfoliants to reverse signs of aging. High doses of the acid in its oral form have been shown in studies to cause birth defects and various pregnancy complications. Doctors are being cautious by recommending that pregnant women avoid the topical use of salicylic acid. Products containing salcylic acid are indicated in the ingredients on the label of the product."
+                    }
+                ]
+            }
+        },
+        {
+            "protip1":[
+                {
+                    "title":"Epidurals are SAFE for both you and your baby",
+                    "description":"Despite the general acceptance and proven safety of today’s epidurals, however, many women still agonize over whether to accept one. For most expectant moms, the turmoil is due to two issues: They might feel as though they’re being “weak” if they opt for anesthesia when they give birth, and secondly (and more importantly), they fear for their own safety and for the safety of their babies. Epidurals are by far the most popular method of pain relief during labor in U.S. hospitals. According to the Listening to Mothers II survey (2006), more than 75 percent of women reported that they received an epidural, including 71 percent of women who had a vaginal birth."
+                }
+            ],
+            "protip2":[
+                {
+                    "title":"What causes constipation during pregnancy and how can I prevent it?",
+                    "description":"Two factors contribute to constipation in pregnancy. The first is the body's increased production of progesterone, which relaxes not only the smooth muscle of the uterine wall but also of the intestinal wall and stomach, thereby making digestion sluggish. The second is the body's tendency to become underhydrated as it adjusts to an increasing blood volume. To help prevent constipation, drink at least eight glasses of water a day. Also exercising daily and eating more vegetables and dried fruits can help ease constipation."
+                }
+            ],
+            "tips": {
+                "do": [
+                    {
+                        "title":"Get your epidural shot and know what to expect",
+                        "description":"More than half of women having babies will be given epidurals to block pain during labor. Epidurals work to block pain like this: Nerves carrying pain signals all have to travel through the “epidural space” on their way to your brain. Imagine each nerve traveling through a sort of two-layer sleeve; the space between the layers is the epidural space. Therefore, anesthesia can be injected into this area to block those pain signals, and voila! You’re pain-free. Although epidurals don’t slow down dilation of the cervix or increase your risk of needing a Cesarean section, they might prolong the pushing phase of delivery by an average of 20 minutes. The upside of an epidural is related to the body’s normal reaction to pain. Pain causes the release of stress hormones into the bloodstream, which can increase your heart rate and divert blood from the uterus. Pain can also make you hyperventilate, which can also divert blood away from the placenta, the part of the uterus where your baby gets oxygen and nutrients. As epidurals block this pain from happening, you don’t suffer its ill effects. As for the health of your baby, researchers haven’t found a significant difference in APGAR scores or the results of other specialized tests of babies born to mothers with labor epidurals and babies born to mothers who did not receive any medications during labor."
+                    }
+                ],
+                "dont":[
+                    
+                    {
+                        "title":"Expose yourself to Lead",
+                        "description":"While lead poses problems for everyone, unborn babies and young children are at the greatest risk. Studies have shown that exposure to high levels of lead during pregnancy may potentially cause problems such as miscarriage, preterm delivery, low birth weight, and, in some cases, developmental delays in infants. Research has also demonstrated that even small amounts of lead can affect your unborn baby's learning and behavioral development. This dangerous substance often lurks in your drinking water. Find out if your home has lead pipes, lead solder on copper pipes, or brass faucets (all brass contains some lead), and follow up with your state health department, who can perform a test on your water. The U.S. Environmental Protection Agency (EPA) also recommends running water for 30 seconds before use to reduce lead levels."
+                    },
+                    
+                    {
+                        "title": "Stress",
+                        "description": "Stress is a trigger for various problems and can be bad for both mother and baby’s health. Research has shown that babies actually experience the emotional environment of the mother. In fact, one study has also indicated that prenatal stress due to strain in relationships could also alter mental development and can make the child fearful to some extent during adulthood."
+                    }
+                ]
+            }
+        },
+        {
+            "protip1": [
+                     {
+                        "title":"Online parenting groups are also available",
+                        "description":"The really nice thing about parenting clubs online is that they are amazingly flexible! That factor comes in handy when you are busy with a newborn, parenting twins or juggling a job and family.You can join an online parents’ club at your convenience and participate as your schedule allows. Online clubs provide as many benefits, if not more, as the traditional community parenting groups. In your spare time you can sign up to participate in discussion boards, post issues for discussion or join a discussion already in progress. You can also post comments in response to someone else’s topic or previous comments. Either way, you will immediately begin to feel like part of a real-life parenting community.If you decide to take a class with one of the many online parenting groups, you can take it in good time, since online classes usually allow you to pace the course according to your personal schedule."
+                    }     
+            ],
+            "protip2": [
+                {
+                    "title":"One-piece outfits are convenient for newborns",
+                    "description":"Some of these are basically spiffed-up jammies appropriate for sleeping and playing – and because babies nap so frequently, especially at first, these are very convenient. "
+                        
+                }
+            ],
+            "tips":  {
+                "do":[
+                {
+                    "title":"Join a parenting club",
+                    "description":"An effective parenting club can answer questions and head off problems for new or stressed-out moms and dads. Stay-at-home parents can feel isolated, as can single parents, even if they work. A group of moms and dads that meet periodically or have a gathering place in the community or on the Web can be a tremendous source of comfort and support. Practical advice, suggestions, and ideas can help you solve a variety of parenting problems or head off concerns before they materialize. Most parenting classes are often taught by professionals like teachers, nurses or social workers."
+                },
+                {
+                    "title":"Purchase the correct fitting baby clothes",
+                    "description":"You'll be changing your baby's clothing several times a day – babies can be messy! – so make sure outfits are uncomplicated and open easily for diaper changes. In general, you want soft, comfortable clothing with no irritating tags or seams. A note on sizing: It's hard to predict which size clothing your baby will need at first. Many babies outgrow newborn or 0- to 3-month clothes quickly, and some larger babies skip the newborn sizes completely and start with 3-month or 3- to 6-month sizes. Others will start out in preemie sizes and wear newborn clothes for months. The best tip is to buy clothing in several sizes and return what you don't use. How many of each item you'll need will depend on how often you plan to do laundry."
+                        
+                }
+                
+            ],
+                "dont":[
+                    {
+                        "title":"Consume oral retinoids",
+                        "description":"These powerful substances, found in some antiaging moisturizers, are lauded for helping reduce wrinkles and improve skin tone. Retinoids are a type of vitamin A that speeds up cell division (quickening your skin's renewal) and prevent skin collagen from breaking down. Retinoids are one of the skin-care ingredients that experts recommend that expectant moms stay away from. Oral retinoids, such as isotretinoin, are known to cause birth defects. If you've been using a skin cream that contains a retinoid, don't panic. Retinoids have not been shown to cause problems in their topical form in pregnant women."
+                    },
+                    {
+                        "title":"Allow your baby to sleep with a blanket",
+                        "description":"According to the American Academy of Pediatrics (AAP), soft bedding in a crib – like blankets and pillows – increases of the risk of suffocation or sudden infant death syndrome (SIDS). Safe alternatives to blankets are sleepers, sleep sacks, and wearable blankets.After 12 months, the statistical likelihood of dying from SIDS plummets. The risk of suffocation also goes down because most 12-month-olds are able to roll over and have the dexterity to move blankets away from their face.It's best not to use crib bumpers, sleep positioners (like wedges), special mattresses, or anything else that claims to reduce the risk of SIDS. According to the AAP, not only do these devices fail to protect your baby, some infants have suffocated while using them. Once your baby is 12 months, it's okay for your child to bring a blanket or special toy to bed for comfort, but it's still safest to keep his crib relatively empty – so don't give your child a pillow until he has transitioned from the crib to a bed."
+                    }
+                ]
+            }
+        }],
+        "bibilography": ["http://www.surebaby.com/pregnancy-and-birth/first-trimester/?atext=First+Trimester+Pregnancy+Symptoms", "http://www.surebaby.com/pregnancy-and-birth/first-trimester/?atext=First+Trimester+Pregnancy+Symptoms", "http://www.nestle-family.com/nutrition-for-all/english/pregnancy-month-nine-time-to-recap-your-nutrition-tips_047603.aspx", "http://www.nestle-family.com/nutrition-for-all/english/pregnancy-month-nine-time-to-recap-your-nutrition-tips_047603.aspx", "http://www.bygpub.com/natural/pregnancy.htm"]
+
+}
