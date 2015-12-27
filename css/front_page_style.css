@@ -32,48 +32,48 @@
 
 /* Grid Images */
 .ch-img-1 { 
-	background-image: url(/img/month1.jpg);
+	background-image: url(../img/month1.jpg);
 	background-size: cover;
 }
 
 .ch-img-2 { 
-	background-image: url(/img/month2.jpg);
+	background-image: url(../img/month2.jpg);
 	background-size: cover;
     
 }
 
 .ch-img-3 { 
-	background-image: url(/img/month3.jpg);
+	background-image: url(../img/month3.jpg);
 	background-size: cover;
 }
 
 .ch-img-4{
-    background-image: url(/img/month4.jpg);
+    background-image: url(../img/month4.jpg);
     background-size: cover;
 }
 
 .ch-img-5{
-    background-image: url(/img/month5.jpg);
+    background-image: url(../img/month5.jpg);
     background-size: cover;
 }
 
 .ch-img-6{
-    background-image: url(/img/month6.jpg);
+    background-image: url(../img/month6.jpg);
     background-size: cover;
 }
 
 .ch-img-7{
-    background-image: url(/img/month7.jpg);
+    background-image: url(../img/month7.jpg);
     background-size: cover;
 }
 
 .ch-img-8{
-    background-image: url(/img/month8.jpg);
+    background-image: url(../img/month8.jpg);
     background-size: cover;
 }
 
 .ch-img-9{
-    background-image: url(/img/month9.jpg);
+    background-image: url(../img/month9.jpg);
     background-size: cover;
 }
 
